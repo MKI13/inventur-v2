@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2025-12-24T20:38:41.647Z",
+  "lastUpdated": "2025-12-24T20:52:38.758Z",
   "categories": [
     {
       "id": "holz",
@@ -9,7 +9,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-24T20:38:41.597Z"
+      "lastModified": "2025-12-24T20:52:38.758Z"
     },
     {
       "id": "platten",
@@ -18,7 +18,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-24T20:38:41.630Z"
+      "lastModified": "2025-12-24T20:52:38.758Z"
     },
     {
       "id": "beschlaege",
@@ -27,7 +27,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-24T20:38:41.631Z"
+      "lastModified": "2025-12-24T20:52:38.758Z"
     },
     {
       "id": "werkzeuge",
@@ -36,16 +36,16 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-24T20:38:41.634Z"
+      "lastModified": "2025-12-24T20:52:38.758Z"
     },
     {
       "id": "lacke",
       "name": "Lacke",
       "file": "categories/lacke.json",
-      "itemCount": 1,
-      "totalValue": 36,
+      "itemCount": 0,
+      "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-22T21:20:37.369Z"
+      "lastModified": "2025-12-24T20:52:38.758Z"
     },
     {
       "id": "schrauben",
@@ -54,7 +54,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-24T20:38:41.639Z"
+      "lastModified": "2025-12-24T20:52:38.758Z"
     },
     {
       "id": "sonstiges",
@@ -63,21 +63,21 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-24T20:38:41.644Z"
+      "lastModified": "2025-12-24T20:52:38.758Z"
     },
     {
       "id": "klebstoffe",
       "name": "Klebstoffe",
       "file": "categories/klebstoffe.json",
-      "itemCount": 1,
-      "totalValue": 50,
+      "itemCount": 0,
+      "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-23T11:00:43.155Z"
+      "lastModified": "2025-12-24T20:52:38.758Z"
     }
   ],
   "statistics": {
-    "totalItems": 2,
-    "totalValue": 86,
+    "totalItems": 0,
+    "totalValue": 0,
     "lowStock": 0,
     "categories": 8
   }
