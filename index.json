@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2025-12-25T01:32:28.062Z",
+  "lastUpdated": "2025-12-25T01:45:48.704Z",
   "categories": [
     {
       "id": "holz",
@@ -9,7 +9,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T01:32:27.888Z"
+      "lastModified": "2025-12-25T01:45:48.682Z"
     },
     {
       "id": "platten",
@@ -18,7 +18,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T01:32:28.008Z"
+      "lastModified": "2025-12-25T01:45:48.690Z"
     },
     {
       "id": "beschlaege",
@@ -27,7 +27,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T01:32:28.012Z"
+      "lastModified": "2025-12-25T01:45:48.695Z"
     },
     {
       "id": "werkzeuge",
@@ -36,7 +36,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T01:32:28.017Z"
+      "lastModified": "2025-12-25T01:45:48.698Z"
     },
     {
       "id": "lacke",
@@ -54,7 +54,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T01:32:28.034Z"
+      "lastModified": "2025-12-25T01:45:48.700Z"
     },
     {
       "id": "sonstiges",
@@ -63,7 +63,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T01:32:28.055Z"
+      "lastModified": "2025-12-25T01:45:48.701Z"
     },
     {
       "id": "klebstoffe",
@@ -72,7 +72,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T01:32:28.062Z"
+      "lastModified": "2025-12-25T01:45:48.704Z"
     }
   ],
   "statistics": {
