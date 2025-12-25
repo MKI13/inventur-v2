@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2025-12-25T00:10:09.657Z",
+  "lastUpdated": "2025-12-25T00:19:37.268Z",
   "categories": [
     {
       "id": "holz",
@@ -9,7 +9,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T00:10:09.617Z"
+      "lastModified": "2025-12-25T00:19:37.225Z"
     },
     {
       "id": "platten",
@@ -18,7 +18,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T00:10:09.629Z"
+      "lastModified": "2025-12-25T00:19:37.251Z"
     },
     {
       "id": "beschlaege",
@@ -27,7 +27,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T00:10:09.632Z"
+      "lastModified": "2025-12-25T00:19:37.252Z"
     },
     {
       "id": "werkzeuge",
@@ -36,16 +36,16 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T00:10:09.635Z"
+      "lastModified": "2025-12-25T00:19:37.255Z"
     },
     {
       "id": "lacke",
       "name": "Lacke",
       "file": "categories/lacke.json",
       "itemCount": 1,
-      "totalValue": 40,
+      "totalValue": 100,
       "lowStock": 0,
-      "lastModified": "2025-12-25T00:01:34.075Z"
+      "lastModified": "2025-12-25T00:12:03.691Z"
     },
     {
       "id": "schrauben",
@@ -54,7 +54,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T00:10:09.645Z"
+      "lastModified": "2025-12-25T00:19:37.260Z"
     },
     {
       "id": "sonstiges",
@@ -63,7 +63,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T00:10:09.650Z"
+      "lastModified": "2025-12-25T00:19:37.263Z"
     },
     {
       "id": "klebstoffe",
@@ -72,12 +72,12 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T00:10:09.657Z"
+      "lastModified": "2025-12-25T00:19:37.268Z"
     }
   ],
   "statistics": {
     "totalItems": 1,
-    "totalValue": 40,
+    "totalValue": 100,
     "lowStock": 0,
     "categories": 8
   }
