@@ -1,8 +1,8 @@
 {
   "version": "2.1.9",
-  "exportDate": "2025-12-28T22:34:49.189Z",
+  "exportDate": "2025-12-28T22:37:34.024Z",
   "source": "ef-sin Inventur",
-  "itemCount": 2,
+  "itemCount": 3,
   "items": [
     {
       "category": "Schrauben",
@@ -31,6 +31,20 @@
       "notes": "",
       "updatedAt": "2025-12-28T22:34:29.559Z",
       "id": 2
+    },
+    {
+      "category": "Platten",
+      "name": "Weiß Perl 19mm",
+      "sku": "",
+      "stock": 1,
+      "unit": "Stück",
+      "min": 1,
+      "max": 10,
+      "price": 15,
+      "location": "Plattenlager",
+      "notes": "",
+      "updatedAt": "2025-12-28T22:37:10.825Z",
+      "id": 3
     }
   ]
 }
