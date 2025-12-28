@@ -1,0 +1,36 @@
+{
+  "version": "2.1.9",
+  "exportDate": "2025-12-28T22:34:49.189Z",
+  "source": "ef-sin Inventur",
+  "itemCount": 2,
+  "items": [
+    {
+      "category": "Schrauben",
+      "name": "4x50",
+      "sku": "",
+      "stock": 1,
+      "unit": "Stück",
+      "min": 2,
+      "max": null,
+      "price": 10,
+      "location": "Schrauben Regal ",
+      "notes": "",
+      "updatedAt": "2025-12-28T22:32:59.549Z",
+      "id": 1
+    },
+    {
+      "category": "Lacke & Öle",
+      "name": "Hartwachöl",
+      "sku": "",
+      "stock": 1,
+      "unit": "Liter",
+      "min": 0.5,
+      "max": 5,
+      "price": 20,
+      "location": "Farben Regale unten",
+      "notes": "",
+      "updatedAt": "2025-12-28T22:34:29.559Z",
+      "id": 2
+    }
+  ]
+}
