@@ -1,6 +1,6 @@
 {
   "version": "2.1.9",
-  "exportDate": "2025-12-28T22:37:34.024Z",
+  "exportDate": "2025-12-28T22:38:39.319Z",
   "source": "ef-sin Inventur",
   "itemCount": 3,
   "items": [
@@ -8,14 +8,14 @@
       "category": "Schrauben",
       "name": "4x50",
       "sku": "",
-      "stock": 1,
-      "unit": "Stück",
+      "stock": 10,
+      "unit": "Paket",
       "min": 2,
-      "max": null,
+      "max": 10,
       "price": 10,
       "location": "Schrauben Regal ",
       "notes": "",
-      "updatedAt": "2025-12-28T22:32:59.549Z",
+      "updatedAt": "2025-12-28T22:38:37.386Z",
       "id": 1
     },
     {
