@@ -1,7 +1,23 @@
 {
   "category": "klebstoffe",
   "categoryName": "Klebstoffe",
-  "lastModified": "2025-12-25T21:37:13.173Z",
-  "itemCount": 0,
-  "items": []
+  "lastModified": "2026-02-02T22:25:15.000Z",
+  "itemCount": 1,
+  "items": [
+    {
+      "id": "foerch-holzkaltleim-d3d4",
+      "name": "Förch Holzkaltleim D3/D4",
+      "sku": "",
+      "stock": 10,
+      "unit": "kg",
+      "min": 2,
+      "max": 30,
+      "price": 0,
+      "location": "Klebstoffe Regal",
+      "notes": "Eimer 28kg verfügbar. Nach DIN/EN 204. Für Fenster- und Türenverleimung, Trennwand- und Elementefertigung.",
+      "photo": "images/klebstoffe/foerch-holzkaltleim-d3d4.jpg",
+      "createdAt": "2026-02-02T22:25:15.000Z",
+      "updatedAt": "2026-02-02T22:25:15.000Z"
+    }
+  ]
 }
