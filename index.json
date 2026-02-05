@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "lastUpdated": "2026-02-02T22:25:15.000Z",
+  "version": "2.1.0",
+  "lastUpdated": "2026-02-05T07:11:45.567Z",
   "categories": [
     {
       "id": "holz",
@@ -9,7 +9,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T21:50:26.544Z"
+      "lastModified": "2026-02-05T07:11:45.554Z"
     },
     {
       "id": "platten",
@@ -18,7 +18,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T21:50:26.553Z"
+      "lastModified": "2026-02-05T07:11:45.556Z"
     },
     {
       "id": "beschlaege",
@@ -27,7 +27,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T21:50:26.553Z"
+      "lastModified": "2026-02-05T07:11:45.558Z"
     },
     {
       "id": "werkzeuge",
@@ -36,16 +36,16 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T21:50:26.556Z"
+      "lastModified": "2026-02-05T07:11:45.563Z"
     },
     {
       "id": "lacke",
       "name": "Lacke",
       "file": "categories/lacke.json",
-      "itemCount": 1,
-      "totalValue": 40,
+      "itemCount": 0,
+      "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T09:58:29.718Z"
+      "lastModified": "2026-02-05T07:11:45.564Z"
     },
     {
       "id": "schrauben",
@@ -54,7 +54,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T21:50:26.565Z"
+      "lastModified": "2026-02-05T07:11:45.564Z"
     },
     {
       "id": "sonstiges",
@@ -63,22 +63,13 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2025-12-25T21:50:26.574Z"
-    },
-    {
-      "id": "klebstoffe",
-      "name": "Klebstoffe",
-      "file": "categories/klebstoffe.json",
-      "itemCount": 1,
-      "totalValue": 0,
-      "lowStock": 0,
-      "lastModified": "2026-02-02T22:25:15.000Z"
+      "lastModified": "2026-02-05T07:11:45.567Z"
     }
   ],
   "statistics": {
-    "totalItems": 2,
-    "totalValue": 40,
+    "totalItems": 0,
+    "totalValue": 0,
     "lowStock": 0,
-    "categories": 8
+    "categories": 7
   }
 }
