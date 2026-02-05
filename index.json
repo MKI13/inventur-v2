@@ -1,6 +1,6 @@
 {
   "version": "2.1.0",
-  "lastUpdated": "2026-02-05T11:18:21.243Z",
+  "lastUpdated": "2026-02-05T14:50:11.957Z",
   "categories": [
     {
       "id": "holz",
@@ -9,7 +9,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-05T11:18:21.233Z"
+      "lastModified": "2026-02-05T14:50:11.946Z"
     },
     {
       "id": "platten",
@@ -18,7 +18,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-05T11:18:21.234Z"
+      "lastModified": "2026-02-05T14:50:11.950Z"
     },
     {
       "id": "beschlaege",
@@ -27,7 +27,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-05T11:18:21.234Z"
+      "lastModified": "2026-02-05T14:50:11.952Z"
     },
     {
       "id": "werkzeuge",
@@ -36,7 +36,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-05T11:18:21.239Z"
+      "lastModified": "2026-02-05T14:50:11.953Z"
     },
     {
       "id": "lacke",
@@ -45,7 +45,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-05T11:18:21.240Z"
+      "lastModified": "2026-02-05T14:50:11.953Z"
     },
     {
       "id": "schrauben",
@@ -54,7 +54,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-05T11:18:21.242Z"
+      "lastModified": "2026-02-05T14:50:11.955Z"
     },
     {
       "id": "sonstiges",
@@ -63,7 +63,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-05T11:18:21.243Z"
+      "lastModified": "2026-02-05T14:50:11.957Z"
     }
   ],
   "statistics": {
