@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "lastUpdated": "2026-02-05T14:52:57.654Z",
+  "version": "2.1.1",
+  "lastUpdated": "2026-02-21T23:31:00.000Z",
   "categories": [
     {
       "id": "holz",
@@ -39,6 +39,33 @@
       "lastModified": "2026-02-05T14:52:57.650Z"
     },
     {
+      "id": "elektrowerkzeuge",
+      "name": "Elektrowerkzeuge",
+      "file": "categories/elektrowerkzeuge.json",
+      "itemCount": 0,
+      "totalValue": 0,
+      "lowStock": 0,
+      "lastModified": "2026-02-21T23:31:00.000Z"
+    },
+    {
+      "id": "bohrer",
+      "name": "Bohrer",
+      "file": "categories/bohrer.json",
+      "itemCount": 0,
+      "totalValue": 0,
+      "lowStock": 0,
+      "lastModified": "2026-02-21T23:31:00.000Z"
+    },
+    {
+      "id": "fraeser",
+      "name": "Fräser",
+      "file": "categories/fraeser.json",
+      "itemCount": 0,
+      "totalValue": 0,
+      "lowStock": 0,
+      "lastModified": "2026-02-21T23:31:00.000Z"
+    },
+    {
       "id": "lacke",
       "name": "Lacke",
       "file": "categories/lacke.json",
@@ -57,6 +84,15 @@
       "lastModified": "2026-02-05T14:52:57.652Z"
     },
     {
+      "id": "klebstoffe",
+      "name": "Klebstoffe",
+      "file": "categories/klebstoffe.json",
+      "itemCount": 0,
+      "totalValue": 0,
+      "lowStock": 0,
+      "lastModified": "2026-02-05T14:52:57.654Z"
+    },
+    {
       "id": "sonstiges",
       "name": "Sonstiges",
       "file": "categories/sonstiges.json",
@@ -70,6 +106,6 @@
     "totalItems": 1,
     "totalValue": 125,
     "lowStock": 0,
-    "categories": 7
+    "categories": 11
   }
 }
