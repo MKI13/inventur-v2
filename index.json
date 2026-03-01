@@ -1,6 +1,6 @@
 {
   "version": "2.1.1",
-  "lastUpdated": "2026-02-21T23:31:00.000Z",
+  "lastUpdated": "2026-02-28T23:53:00.000Z",
   "categories": [
     {
       "id": "holz",
@@ -28,6 +28,33 @@
       "totalValue": 125,
       "lowStock": 0,
       "lastModified": "2026-02-05T07:10:18.725Z"
+    },
+    {
+      "id": "kantenband",
+      "name": "Kantenband",
+      "file": "categories/kantenband.json",
+      "itemCount": 7,
+      "totalValue": 106.95,
+      "lowStock": 0,
+      "lastModified": "2026-02-28T23:53:00.000Z"
+    },
+    {
+      "id": "scharniere",
+      "name": "Scharniere",
+      "file": "categories/scharniere.json",
+      "itemCount": 7,
+      "totalValue": 924,
+      "lowStock": 0,
+      "lastModified": "2026-02-28T23:53:00.000Z"
+    },
+    {
+      "id": "griffe",
+      "name": "Griffe & Knöpfe",
+      "file": "categories/griffe.json",
+      "itemCount": 8,
+      "totalValue": 1550.30,
+      "lowStock": 0,
+      "lastModified": "2026-02-28T23:53:00.000Z"
     },
     {
       "id": "werkzeuge",
@@ -103,9 +130,9 @@
     }
   ],
   "statistics": {
-    "totalItems": 1,
-    "totalValue": 125,
+    "totalItems": 23,
+    "totalValue": 2706.25,
     "lowStock": 0,
-    "categories": 11
+    "categories": 14
   }
 }
