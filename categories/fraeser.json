@@ -1,7 +1,68 @@
 {
   "category": "fraeser",
   "categoryName": "Fräser",
-  "lastModified": "2026-02-21T23:31:00.000Z",
-  "itemCount": 0,
-  "items": []
+  "lastModified": "2026-03-03T08:24:00.000Z",
+  "itemCount": 4,
+  "items": [
+    {
+      "id": "kantenfraeserset-rund-fase",
+      "name": "Kantenfrässer-Set (Rund + Fase)",
+      "sku": "",
+      "stock": 1,
+      "unit": "Set",
+      "min": 1,
+      "max": 2,
+      "price": 0,
+      "location": "Fräser-Box",
+      "notes": "Schaft 8mm, Auflagekugellager, HM",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "nutfraese-8mm-schaft-6mm-schnitt",
+      "name": "Nutfräser 8mm Schnittdurchmesser",
+      "sku": "",
+      "stock": 2,
+      "unit": "Stück",
+      "min": 1,
+      "max": 4,
+      "price": 0,
+      "location": "Fräser-Box",
+      "notes": "Schaft 8mm, Schnitttiefe 25mm, HM",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "bündigfraese-mit-kugellager",
+      "name": "Bündigfräser mit Kugellager",
+      "sku": "",
+      "stock": 2,
+      "unit": "Stück",
+      "min": 1,
+      "max": 3,
+      "price": 0,
+      "location": "Fräser-Box",
+      "notes": "Schaft 8mm, für Schablonenfräsen",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "profilfraese-viertelstab",
+      "name": "Profilfräser Viertelstab",
+      "sku": "",
+      "stock": 1,
+      "unit": "Stück",
+      "min": 1,
+      "max": 2,
+      "price": 0,
+      "location": "Fräser-Box",
+      "notes": "R10, Schaft 8mm, für Zierprofile",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    }
+  ]
 }

@@ -1,7 +1,83 @@
 {
   "category": "platten",
   "categoryName": "Platten",
-  "lastModified": "2026-02-05T14:52:59.786Z",
-  "itemCount": 0,
-  "items": []
+  "lastModified": "2026-03-03T08:24:00.000Z",
+  "itemCount": 5,
+  "items": [
+    {
+      "id": "spanplatte-melamin-weiss-19mm",
+      "name": "Spanplatte melaminbeschichtet weiß 19mm",
+      "sku": "",
+      "stock": 8,
+      "unit": "Stück",
+      "min": 3,
+      "max": 20,
+      "price": 0,
+      "location": "Plattenlager",
+      "notes": "2800x2070mm, beidseitig beschichtet, für Küchen/Schränke",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "mdf-16mm-roh",
+      "name": "MDF-Platte 16mm roh",
+      "sku": "",
+      "stock": 5,
+      "unit": "Stück",
+      "min": 2,
+      "max": 15,
+      "price": 0,
+      "location": "Plattenlager",
+      "notes": "2800x2070mm, für Fräsarbeiten, Lackieren",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "multiplex-birke-18mm",
+      "name": "Multiplex Birke 18mm",
+      "sku": "",
+      "stock": 4,
+      "unit": "Stück",
+      "min": 2,
+      "max": 10,
+      "price": 0,
+      "location": "Plattenlager",
+      "notes": "2500x1250mm, BB/BB Qualität",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "osb-platte-18mm",
+      "name": "OSB-Platte 18mm",
+      "sku": "",
+      "stock": 6,
+      "unit": "Stück",
+      "min": 2,
+      "max": 20,
+      "price": 0,
+      "location": "Plattenlager",
+      "notes": "2500x1250mm, OSB/3, Konstruktion",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "hdf-rückwand-4mm",
+      "name": "HDF-Rückwandplatte 4mm",
+      "sku": "",
+      "stock": 10,
+      "unit": "Stück",
+      "min": 3,
+      "max": 20,
+      "price": 0,
+      "location": "Plattenlager",
+      "notes": "2800x2070mm, weiß, für Schrankrückwände",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    }
+  ]
 }

@@ -1,7 +1,53 @@
 {
   "category": "sonstiges",
   "categoryName": "Sonstiges",
-  "lastModified": "2026-02-05T14:53:04.602Z",
-  "itemCount": 0,
-  "items": []
+  "lastModified": "2026-03-03T08:24:00.000Z",
+  "itemCount": 3,
+  "items": [
+    {
+      "id": "schleifpapier-sortiment-80-240",
+      "name": "Schleifpapier-Sortiment 80-240 Körnung",
+      "sku": "",
+      "stock": 30,
+      "unit": "Bögen",
+      "min": 10,
+      "max": 100,
+      "price": 0,
+      "location": "Schleifmittel-Fach",
+      "notes": "115x280mm, gemischt: 80er, 120er, 180er, 240er",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "arbeitshandschuhe-nitril-m-l",
+      "name": "Arbeitshandschuhe Nitril (M/L)",
+      "sku": "",
+      "stock": 2,
+      "unit": "Pack (100er)",
+      "min": 1,
+      "max": 5,
+      "price": 0,
+      "location": "Sicherheit-Regal",
+      "notes": "Einweghandschuhe, puderfrei",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "abklebeband-malerkrepp-38mm",
+      "name": "Malerkrepp 38mm",
+      "sku": "",
+      "stock": 5,
+      "unit": "Rollen",
+      "min": 2,
+      "max": 10,
+      "price": 0,
+      "location": "Klebeband-Regal",
+      "notes": "Tesa Malerkrepp, 50m Länge",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    }
+  ]
 }

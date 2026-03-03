@@ -1,7 +1,68 @@
 {
   "category": "schrauben",
   "categoryName": "Schrauben",
-  "lastModified": "2026-02-05T14:53:03.687Z",
-  "itemCount": 0,
-  "items": []
+  "lastModified": "2026-03-03T08:24:00.000Z",
+  "itemCount": 4,
+  "items": [
+    {
+      "id": "spanplattenschrauben-4x40-500er",
+      "name": "Spanplattenschrauben 4x40mm",
+      "sku": "",
+      "stock": 2,
+      "unit": "Pack (500er)",
+      "min": 1,
+      "max": 5,
+      "price": 0,
+      "location": "Schrauben-Regal",
+      "notes": "Torx T20, verzinkt, Senkkopf",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "spanplattenschrauben-5x60-200er",
+      "name": "Spanplattenschrauben 5x60mm",
+      "sku": "",
+      "stock": 3,
+      "unit": "Pack (200er)",
+      "min": 1,
+      "max": 5,
+      "price": 0,
+      "location": "Schrauben-Regal",
+      "notes": "Torx T25, verzinkt, Senkkopf",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "holzduebel-8mm-100er",
+      "name": "Holzdübel 8mm",
+      "sku": "",
+      "stock": 2,
+      "unit": "Pack (100er)",
+      "min": 1,
+      "max": 5,
+      "price": 0,
+      "location": "Schrauben-Regal",
+      "notes": "Buche, 40mm Länge, genutet",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "konfirmats-7x50-100er",
+      "name": "Konfirmat-Schrauben 7x50mm",
+      "sku": "",
+      "stock": 1,
+      "unit": "Pack (100er)",
+      "min": 1,
+      "max": 3,
+      "price": 0,
+      "location": "Schrauben-Regal",
+      "notes": "Für Möbelmontage, Inbus 4mm",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    }
+  ]
 }

@@ -1,7 +1,83 @@
 {
   "category": "holz",
   "categoryName": "Holz",
-  "lastModified": "2026-02-05T14:52:58.721Z",
-  "itemCount": 0,
-  "items": []
+  "lastModified": "2026-03-03T08:24:00.000Z",
+  "itemCount": 5,
+  "items": [
+    {
+      "id": "kiefer-kanthölzer-45x70",
+      "name": "Kiefernkantholz 45x70mm",
+      "sku": "",
+      "stock": 20,
+      "unit": "lfm",
+      "min": 10,
+      "max": 100,
+      "price": 0,
+      "location": "Holzlager",
+      "notes": "Konstruktionsholz, KVH, getrocknet",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "fichte-leimholz-18mm",
+      "name": "Fichte Leimholzplatte 18mm",
+      "sku": "",
+      "stock": 5,
+      "unit": "Stück",
+      "min": 2,
+      "max": 20,
+      "price": 0,
+      "location": "Holzlager",
+      "notes": "2500x600mm, gehobelt",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "buche-massiv-20mm",
+      "name": "Buche Massivholz 20mm",
+      "sku": "",
+      "stock": 3,
+      "unit": "m²",
+      "min": 1,
+      "max": 15,
+      "price": 0,
+      "location": "Holzlager",
+      "notes": "Möbelqualität, beidseitig gehobelt",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "eiche-leisten-20x40",
+      "name": "Eichenleiste 20x40mm",
+      "sku": "",
+      "stock": 15,
+      "unit": "lfm",
+      "min": 5,
+      "max": 50,
+      "price": 0,
+      "location": "Holzlager",
+      "notes": "Europäische Eiche, gehobelt, gefast",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "kiefer-dachlatten-24x48",
+      "name": "Kiefernlatte 24x48mm (Dachlatte)",
+      "sku": "",
+      "stock": 30,
+      "unit": "lfm",
+      "min": 10,
+      "max": 100,
+      "price": 0,
+      "location": "Holzlager",
+      "notes": "Geeignet für Rahmenkonstruktionen",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    }
+  ]
 }

@@ -1,7 +1,83 @@
 {
   "category": "elektrowerkzeuge",
   "categoryName": "Elektrowerkzeuge",
-  "lastModified": "2026-02-21T23:31:00.000Z",
-  "itemCount": 0,
-  "items": []
+  "lastModified": "2026-03-03T08:24:00.000Z",
+  "itemCount": 5,
+  "items": [
+    {
+      "id": "tischkreissaege-hauptsaege",
+      "name": "Tischkreissäge (Hauptsäge)",
+      "sku": "",
+      "stock": 1,
+      "unit": "Stück",
+      "min": 1,
+      "max": 1,
+      "price": 0,
+      "location": "Werkstatt Mitte",
+      "notes": "Formatkreissäge, fest montiert",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "handkreissaege-makita",
+      "name": "Handkreissäge Makita",
+      "sku": "",
+      "stock": 1,
+      "unit": "Stück",
+      "min": 1,
+      "max": 2,
+      "price": 0,
+      "location": "Elektrowerkzeug-Regal",
+      "notes": "185mm Blatt, inkl. Führungsschiene",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "oberfraese-festool",
+      "name": "Oberfräse Festool OF 1400",
+      "sku": "",
+      "stock": 1,
+      "unit": "Stück",
+      "min": 1,
+      "max": 1,
+      "price": 0,
+      "location": "Elektrowerkzeug-Regal",
+      "notes": "1400W, inkl. Tischaufnahme und Zubehörbox",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "exzenterschleifer-bosch",
+      "name": "Exzenterschleifer Bosch",
+      "sku": "",
+      "stock": 2,
+      "unit": "Stück",
+      "min": 1,
+      "max": 3,
+      "price": 0,
+      "location": "Elektrowerkzeug-Regal",
+      "notes": "125mm, 5-Loch, Beutel inkl.",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "akkubohrschrauber-makita-18v",
+      "name": "Akku-Bohrschrauber Makita 18V",
+      "sku": "",
+      "stock": 2,
+      "unit": "Stück",
+      "min": 1,
+      "max": 3,
+      "price": 0,
+      "location": "Akku-Station",
+      "notes": "DHP484, 2x Akku 5Ah, Ladegerät",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    }
+  ]
 }

@@ -1,7 +1,68 @@
 {
   "category": "lacke",
   "categoryName": "Lacke",
-  "lastModified": "2026-02-05T14:53:02.854Z",
-  "itemCount": 0,
-  "items": []
+  "lastModified": "2026-03-03T08:24:00.000Z",
+  "itemCount": 4,
+  "items": [
+    {
+      "id": "holzoel-osmo-natur-2-5l",
+      "name": "OSMO Hartwachsöl natur 2,5L",
+      "sku": "",
+      "stock": 2,
+      "unit": "Stück",
+      "min": 1,
+      "max": 5,
+      "price": 0,
+      "location": "Lacke-Regal",
+      "notes": "Nr. 3032, für Massivholzböden und Möbel",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "holzgrundierung-weiss-1l",
+      "name": "Holzgrundierung weiß 1L",
+      "sku": "",
+      "stock": 3,
+      "unit": "Stück",
+      "min": 1,
+      "max": 6,
+      "price": 0,
+      "location": "Lacke-Regal",
+      "notes": "Wasserbasis, für MDF und Weichholz",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "klarlack-seidenmatt-1l",
+      "name": "Klarlack seidenmatt 1L",
+      "sku": "",
+      "stock": 2,
+      "unit": "Stück",
+      "min": 1,
+      "max": 5,
+      "price": 0,
+      "location": "Lacke-Regal",
+      "notes": "Wasserbasis, schnelltrocknend",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "holzlasur-eiche-750ml",
+      "name": "Holzlasur Eiche 750ml",
+      "sku": "",
+      "stock": 1,
+      "unit": "Stück",
+      "min": 1,
+      "max": 3,
+      "price": 0,
+      "location": "Lacke-Regal",
+      "notes": "Lösemittelbasis, wetterfest, außen",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    }
+  ]
 }

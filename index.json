@@ -1,24 +1,24 @@
 {
-  "version": "2.1.1",
-  "lastUpdated": "2026-02-21T23:31:00.000Z",
+  "version": "2.1.2",
+  "lastUpdated": "2026-03-03T08:24:00.000Z",
   "categories": [
     {
       "id": "holz",
       "name": "Holz",
       "file": "categories/holz.json",
-      "itemCount": 0,
+      "itemCount": 5,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-05T14:52:57.643Z"
+      "lastModified": "2026-03-03T08:24:00.000Z"
     },
     {
       "id": "platten",
       "name": "Platten",
       "file": "categories/platten.json",
-      "itemCount": 0,
+      "itemCount": 5,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-05T14:52:57.644Z"
+      "lastModified": "2026-03-03T08:24:00.000Z"
     },
     {
       "id": "beschlaege",
@@ -33,61 +33,61 @@
       "id": "werkzeuge",
       "name": "Werkzeuge",
       "file": "categories/werkzeuge.json",
-      "itemCount": 0,
+      "itemCount": 6,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-05T14:52:57.650Z"
+      "lastModified": "2026-03-03T08:24:00.000Z"
     },
     {
       "id": "elektrowerkzeuge",
       "name": "Elektrowerkzeuge",
       "file": "categories/elektrowerkzeuge.json",
-      "itemCount": 0,
+      "itemCount": 5,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-21T23:31:00.000Z"
+      "lastModified": "2026-03-03T08:24:00.000Z"
     },
     {
       "id": "bohrer",
       "name": "Bohrer",
       "file": "categories/bohrer.json",
-      "itemCount": 0,
+      "itemCount": 4,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-21T23:31:00.000Z"
+      "lastModified": "2026-03-03T08:24:00.000Z"
     },
     {
       "id": "fraeser",
       "name": "Fräser",
       "file": "categories/fraeser.json",
-      "itemCount": 0,
+      "itemCount": 4,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-21T23:31:00.000Z"
+      "lastModified": "2026-03-03T08:24:00.000Z"
     },
     {
       "id": "lacke",
       "name": "Lacke",
       "file": "categories/lacke.json",
-      "itemCount": 0,
+      "itemCount": 4,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-05T14:52:57.651Z"
+      "lastModified": "2026-03-03T08:24:00.000Z"
     },
     {
       "id": "schrauben",
       "name": "Schrauben",
       "file": "categories/schrauben.json",
-      "itemCount": 0,
+      "itemCount": 4,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-05T14:52:57.652Z"
+      "lastModified": "2026-03-03T08:24:00.000Z"
     },
     {
       "id": "klebstoffe",
       "name": "Klebstoffe",
       "file": "categories/klebstoffe.json",
-      "itemCount": 0,
+      "itemCount": 1,
       "totalValue": 0,
       "lowStock": 0,
       "lastModified": "2026-02-05T14:52:57.654Z"
@@ -96,14 +96,14 @@
       "id": "sonstiges",
       "name": "Sonstiges",
       "file": "categories/sonstiges.json",
-      "itemCount": 0,
+      "itemCount": 3,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-05T14:52:57.654Z"
+      "lastModified": "2026-03-03T08:24:00.000Z"
     }
   ],
   "statistics": {
-    "totalItems": 1,
+    "totalItems": 42,
     "totalValue": 125,
     "lowStock": 0,
     "categories": 11

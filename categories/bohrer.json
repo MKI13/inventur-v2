@@ -1,7 +1,68 @@
 {
   "category": "bohrer",
   "categoryName": "Bohrer",
-  "lastModified": "2026-02-21T23:31:00.000Z",
-  "itemCount": 0,
-  "items": []
+  "lastModified": "2026-03-03T08:24:00.000Z",
+  "itemCount": 4,
+  "items": [
+    {
+      "id": "holzbohrer-set-3-10mm",
+      "name": "Holzbohrer-Set 3-10mm",
+      "sku": "",
+      "stock": 1,
+      "unit": "Set",
+      "min": 1,
+      "max": 2,
+      "price": 0,
+      "location": "Bohrer-Schublade",
+      "notes": "6-teilig, HSS, Sechskantschaft",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "forstnerbohrer-set-15-35mm",
+      "name": "Forstnerbohrer-Set 15-35mm",
+      "sku": "",
+      "stock": 1,
+      "unit": "Set",
+      "min": 1,
+      "max": 2,
+      "price": 0,
+      "location": "Bohrer-Schublade",
+      "notes": "5-teilig, HSS, für Scharnierbohrungen",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "scharnier-35mm-forstner",
+      "name": "Forstnerbohrer 35mm (Topfband)",
+      "sku": "",
+      "stock": 2,
+      "unit": "Stück",
+      "min": 1,
+      "max": 3,
+      "price": 0,
+      "location": "Bohrer-Schublade",
+      "notes": "Standard Scharnierbohrung für Topfbänder",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "senker-8mm-hss",
+      "name": "Senker 8mm HSS",
+      "sku": "",
+      "stock": 3,
+      "unit": "Stück",
+      "min": 2,
+      "max": 5,
+      "price": 0,
+      "location": "Bohrer-Schublade",
+      "notes": "Kegelsenker, für Schraubenköpfe",
+      "photo": "",
+      "createdAt": "2026-03-03T08:24:00.000Z",
+      "updatedAt": "2026-03-03T08:24:00.000Z"
+    }
+  ]
 }
