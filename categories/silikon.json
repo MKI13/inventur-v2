@@ -1,0 +1,83 @@
+{
+  "category": "silikon",
+  "categoryName": "Silikon & Dichtmasse",
+  "lastModified": "2026-03-14T22:30:00.000Z",
+  "itemCount": 5,
+  "items": [
+    {
+      "id": "silikon-weiss-sanitaer",
+      "name": "Silikon weiß Sanitär",
+      "sku": "",
+      "stock": 4,
+      "unit": "Kartusche",
+      "min": 2,
+      "max": 10,
+      "price": 0,
+      "location": "Dichtmittel-Regal",
+      "notes": "310ml, schimmelresistent, für Küche/Bad",
+      "photo": "",
+      "createdAt": "2026-03-14T22:30:00.000Z",
+      "updatedAt": "2026-03-14T22:30:00.000Z"
+    },
+    {
+      "id": "silikon-transparent",
+      "name": "Silikon transparent",
+      "sku": "",
+      "stock": 3,
+      "unit": "Kartusche",
+      "min": 1,
+      "max": 8,
+      "price": 0,
+      "location": "Dichtmittel-Regal",
+      "notes": "310ml, universal",
+      "photo": "",
+      "createdAt": "2026-03-14T22:30:00.000Z",
+      "updatedAt": "2026-03-14T22:30:00.000Z"
+    },
+    {
+      "id": "acryl-weiss",
+      "name": "Acryl weiß überstreichbar",
+      "sku": "",
+      "stock": 5,
+      "unit": "Kartusche",
+      "min": 2,
+      "max": 10,
+      "price": 0,
+      "location": "Dichtmittel-Regal",
+      "notes": "310ml, für Fugen/Anschlüsse Innen",
+      "photo": "",
+      "createdAt": "2026-03-14T22:30:00.000Z",
+      "updatedAt": "2026-03-14T22:30:00.000Z"
+    },
+    {
+      "id": "montagekleber-stark",
+      "name": "Montagekleber stark",
+      "sku": "",
+      "stock": 3,
+      "unit": "Kartusche",
+      "min": 1,
+      "max": 6,
+      "price": 0,
+      "location": "Dichtmittel-Regal",
+      "notes": "390g, für schwere Teile",
+      "photo": "",
+      "createdAt": "2026-03-14T22:30:00.000Z",
+      "updatedAt": "2026-03-14T22:30:00.000Z"
+    },
+    {
+      "id": "fugenband-kompriband",
+      "name": "Kompriband / Fugenband",
+      "sku": "",
+      "stock": 2,
+      "unit": "Rolle",
+      "min": 1,
+      "max": 5,
+      "price": 0,
+      "location": "Dichtmittel-Regal",
+      "notes": "10m x 10/15mm, für Wandanschlüsse",
+      "photo": "",
+      "createdAt": "2026-03-14T22:30:00.000Z",
+      "updatedAt": "2026-03-14T22:30:00.000Z"
+    }
+  ]
+}

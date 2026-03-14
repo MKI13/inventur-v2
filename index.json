@@ -1,6 +1,6 @@
 {
-  "version": "2.1.2",
-  "lastUpdated": "2026-03-03T08:24:00.000Z",
+  "version": "2.1.4",
+  "lastUpdated": "2026-03-14T23:34:29.000Z",
   "categories": [
     {
       "id": "holz",
@@ -100,12 +100,57 @@
       "totalValue": 0,
       "lowStock": 0,
       "lastModified": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "kantenband",
+      "name": "Kantenband",
+      "file": "categories/kantenband.json",
+      "itemCount": 7,
+      "totalValue": 0,
+      "lowStock": 0,
+      "lastModified": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "scharniere",
+      "name": "Scharniere",
+      "file": "categories/scharniere.json",
+      "itemCount": 7,
+      "totalValue": 0,
+      "lowStock": 0,
+      "lastModified": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "griffe",
+      "name": "Griffe & Knöpfe",
+      "file": "categories/griffe.json",
+      "itemCount": 8,
+      "totalValue": 0,
+      "lowStock": 0,
+      "lastModified": "2026-03-03T08:24:00.000Z"
+    },
+    {
+      "id": "schleifmittel",
+      "name": "Schleifmittel",
+      "file": "categories/schleifmittel.json",
+      "itemCount": 7,
+      "totalValue": 0,
+      "lowStock": 0,
+      "lastModified": "2026-03-14T22:30:00.000Z"
+    },
+    {
+      "id": "silikon",
+      "name": "Silikon & Dichtmasse",
+      "file": "categories/silikon.json",
+      "itemCount": 5,
+      "totalValue": 0,
+      "lowStock": 0,
+      "lastModified": "2026-03-14T22:30:00.000Z"
     }
   ],
   "statistics": {
-    "totalItems": 42,
+    "totalItems": 76,
     "totalValue": 125,
     "lowStock": 0,
-    "categories": 11
+    "categories": 16
   }
 }
