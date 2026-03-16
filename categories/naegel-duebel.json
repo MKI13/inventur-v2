@@ -1,0 +1,83 @@
+{
+  "category": "naegel-duebel",
+  "categoryName": "Nägel & Dübel",
+  "lastModified": "2026-03-16T23:30:00.000Z",
+  "itemCount": 5,
+  "items": [
+    {
+      "id": "holzduebel-8mm",
+      "name": "Holzdübel 8mm x 40mm",
+      "sku": "",
+      "stock": 200,
+      "unit": "Stück",
+      "min": 100,
+      "max": 500,
+      "price": 0,
+      "location": "Kleinteillager",
+      "notes": "Buche, eingedreht",
+      "photo": "",
+      "createdAt": "2026-03-16T23:30:00.000Z",
+      "updatedAt": "2026-03-16T23:30:00.000Z"
+    },
+    {
+      "id": "holzduebel-10mm",
+      "name": "Holzdübel 10mm x 50mm",
+      "sku": "",
+      "stock": 100,
+      "unit": "Stück",
+      "min": 50,
+      "max": 300,
+      "price": 0,
+      "location": "Kleinteillager",
+      "notes": "Buche, eingedreht",
+      "photo": "",
+      "createdAt": "2026-03-16T23:30:00.000Z",
+      "updatedAt": "2026-03-16T23:30:00.000Z"
+    },
+    {
+      "id": "naegel-50mm",
+      "name": "Drahtstifte 50mm",
+      "sku": "",
+      "stock": 500,
+      "unit": "Stück",
+      "min": 200,
+      "max": 1000,
+      "price": 0,
+      "location": "Kleinteillager",
+      "notes": "",
+      "photo": "",
+      "createdAt": "2026-03-16T23:30:00.000Z",
+      "updatedAt": "2026-03-16T23:30:00.000Z"
+    },
+    {
+      "id": "fischer-duebel-s8",
+      "name": "Fischer Universaldübel S8",
+      "sku": "",
+      "stock": 50,
+      "unit": "Stück",
+      "min": 20,
+      "max": 100,
+      "price": 0,
+      "location": "Kleinteillager",
+      "notes": "Mit Schrauben",
+      "photo": "",
+      "createdAt": "2026-03-16T23:30:00.000Z",
+      "updatedAt": "2026-03-16T23:30:00.000Z"
+    },
+    {
+      "id": "lamello-biscuits-20",
+      "name": "Lamellos Gr. 20 (Flachdübel)",
+      "sku": "",
+      "stock": 100,
+      "unit": "Stück",
+      "min": 50,
+      "max": 300,
+      "price": 0,
+      "location": "Kleinteillager",
+      "notes": "Buche",
+      "photo": "",
+      "createdAt": "2026-03-16T23:30:00.000Z",
+      "updatedAt": "2026-03-16T23:30:00.000Z"
+    }
+  ]
+}
