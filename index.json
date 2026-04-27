@@ -1,156 +1,75 @@
 {
-  "version": "2.1.4",
-  "lastUpdated": "2026-03-14T23:34:29.000Z",
+  "version": "2.1.0",
+  "lastUpdated": "2026-04-27T23:00:22.990Z",
   "categories": [
     {
       "id": "holz",
       "name": "Holz",
       "file": "categories/holz.json",
-      "itemCount": 5,
+      "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-03-03T08:24:00.000Z"
+      "lastModified": "2026-04-27T23:00:22.981Z"
     },
     {
       "id": "platten",
       "name": "Platten",
       "file": "categories/platten.json",
-      "itemCount": 5,
+      "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-03-03T08:24:00.000Z"
+      "lastModified": "2026-04-27T23:00:22.982Z"
     },
     {
       "id": "beschlaege",
       "name": "Beschläge",
       "file": "categories/beschlaege.json",
-      "itemCount": 1,
-      "totalValue": 125,
+      "itemCount": 0,
+      "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-02-05T07:10:18.725Z"
+      "lastModified": "2026-04-27T23:00:22.984Z"
     },
     {
       "id": "werkzeuge",
       "name": "Werkzeuge",
       "file": "categories/werkzeuge.json",
-      "itemCount": 6,
+      "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-03-03T08:24:00.000Z"
-    },
-    {
-      "id": "elektrowerkzeuge",
-      "name": "Elektrowerkzeuge",
-      "file": "categories/elektrowerkzeuge.json",
-      "itemCount": 5,
-      "totalValue": 0,
-      "lowStock": 0,
-      "lastModified": "2026-03-03T08:24:00.000Z"
-    },
-    {
-      "id": "bohrer",
-      "name": "Bohrer",
-      "file": "categories/bohrer.json",
-      "itemCount": 4,
-      "totalValue": 0,
-      "lowStock": 0,
-      "lastModified": "2026-03-03T08:24:00.000Z"
-    },
-    {
-      "id": "fraeser",
-      "name": "Fräser",
-      "file": "categories/fraeser.json",
-      "itemCount": 4,
-      "totalValue": 0,
-      "lowStock": 0,
-      "lastModified": "2026-03-03T08:24:00.000Z"
+      "lastModified": "2026-04-27T23:00:22.986Z"
     },
     {
       "id": "lacke",
       "name": "Lacke",
       "file": "categories/lacke.json",
-      "itemCount": 4,
+      "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-03-03T08:24:00.000Z"
+      "lastModified": "2026-04-27T23:00:22.987Z"
     },
     {
       "id": "schrauben",
       "name": "Schrauben",
       "file": "categories/schrauben.json",
-      "itemCount": 4,
+      "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-03-03T08:24:00.000Z"
-    },
-    {
-      "id": "klebstoffe",
-      "name": "Klebstoffe",
-      "file": "categories/klebstoffe.json",
-      "itemCount": 1,
-      "totalValue": 0,
-      "lowStock": 0,
-      "lastModified": "2026-02-05T14:52:57.654Z"
+      "lastModified": "2026-04-27T23:00:22.989Z"
     },
     {
       "id": "sonstiges",
       "name": "Sonstiges",
       "file": "categories/sonstiges.json",
-      "itemCount": 3,
+      "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-03-03T08:24:00.000Z"
-    },
-    {
-      "id": "kantenband",
-      "name": "Kantenband",
-      "file": "categories/kantenband.json",
-      "itemCount": 7,
-      "totalValue": 0,
-      "lowStock": 0,
-      "lastModified": "2026-03-03T08:24:00.000Z"
-    },
-    {
-      "id": "scharniere",
-      "name": "Scharniere",
-      "file": "categories/scharniere.json",
-      "itemCount": 7,
-      "totalValue": 0,
-      "lowStock": 0,
-      "lastModified": "2026-03-03T08:24:00.000Z"
-    },
-    {
-      "id": "griffe",
-      "name": "Griffe & Knöpfe",
-      "file": "categories/griffe.json",
-      "itemCount": 8,
-      "totalValue": 0,
-      "lowStock": 0,
-      "lastModified": "2026-03-03T08:24:00.000Z"
-    },
-    {
-      "id": "schleifmittel",
-      "name": "Schleifmittel",
-      "file": "categories/schleifmittel.json",
-      "itemCount": 7,
-      "totalValue": 0,
-      "lowStock": 0,
-      "lastModified": "2026-03-14T22:30:00.000Z"
-    },
-    {
-      "id": "silikon",
-      "name": "Silikon & Dichtmasse",
-      "file": "categories/silikon.json",
-      "itemCount": 5,
-      "totalValue": 0,
-      "lowStock": 0,
-      "lastModified": "2026-03-14T22:30:00.000Z"
+      "lastModified": "2026-04-27T23:00:22.990Z"
     }
   ],
   "statistics": {
-    "totalItems": 76,
-    "totalValue": 125,
+    "totalItems": 0,
+    "totalValue": 0,
     "lowStock": 0,
-    "categories": 16
+    "categories": 7
   }
 }
