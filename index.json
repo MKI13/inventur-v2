@@ -1,6 +1,6 @@
 {
   "version": "2.1.0",
-  "lastUpdated": "2026-04-27T23:02:35.906Z",
+  "lastUpdated": "2026-04-27T23:05:50.611Z",
   "categories": [
     {
       "id": "holz",
@@ -9,25 +9,25 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-04-27T23:02:35.893Z"
+      "lastModified": "2026-04-27T23:05:50.606Z"
     },
     {
       "id": "platten",
       "name": "Platten",
       "file": "categories/platten.json",
-      "itemCount": 0,
-      "totalValue": 0,
-      "lowStock": 0,
-      "lastModified": "2026-04-27T23:02:35.895Z"
+      "itemCount": 1,
+      "totalValue": 20,
+      "lowStock": 1,
+      "lastModified": "2026-02-05T20:32:27.665Z"
     },
     {
       "id": "beschlaege",
       "name": "Beschläge",
       "file": "categories/beschlaege.json",
-      "itemCount": 0,
-      "totalValue": 0,
+      "itemCount": 1,
+      "totalValue": 125,
       "lowStock": 0,
-      "lastModified": "2026-04-27T23:02:35.895Z"
+      "lastModified": "2026-02-05T19:15:26.360Z"
     },
     {
       "id": "werkzeuge",
@@ -36,7 +36,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-04-27T23:02:35.896Z"
+      "lastModified": "2026-04-27T23:05:50.609Z"
     },
     {
       "id": "lacke",
@@ -45,7 +45,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-04-27T23:02:35.900Z"
+      "lastModified": "2026-04-27T23:05:50.609Z"
     },
     {
       "id": "schrauben",
@@ -54,7 +54,7 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-04-27T23:02:35.905Z"
+      "lastModified": "2026-04-27T23:05:50.610Z"
     },
     {
       "id": "sonstiges",
@@ -63,13 +63,13 @@
       "itemCount": 0,
       "totalValue": 0,
       "lowStock": 0,
-      "lastModified": "2026-04-27T23:02:35.906Z"
+      "lastModified": "2026-04-27T23:05:50.611Z"
     }
   ],
   "statistics": {
-    "totalItems": 0,
-    "totalValue": 0,
-    "lowStock": 0,
+    "totalItems": 2,
+    "totalValue": 145,
+    "lowStock": 1,
     "categories": 7
   }
 }
