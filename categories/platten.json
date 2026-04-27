@@ -1,7 +1,23 @@
 {
   "category": "platten",
   "categoryName": "Platten",
-  "lastModified": "2026-04-27T23:02:37.791Z",
-  "itemCount": 0,
-  "items": []
+  "lastModified": "2026-04-27T23:05:45.542Z",
+  "itemCount": 1,
+  "items": [
+    {
+      "id": 2,
+      "name": "Spanplatte",
+      "sku": "",
+      "stock": 2,
+      "unit": "Platte",
+      "min": 2,
+      "max": 10,
+      "price": 10,
+      "location": "Plattenlager",
+      "notes": "Dekor:weiß",
+      "photo": "",
+      "createdAt": "2026-04-27T23:05:45.188Z",
+      "updatedAt": "2026-02-05T20:32:27.665Z"
+    }
+  ]
 }
