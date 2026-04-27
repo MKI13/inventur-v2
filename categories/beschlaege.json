@@ -1,7 +1,23 @@
 {
   "category": "beschlaege",
   "categoryName": "Beschläge",
-  "lastModified": "2026-04-27T23:02:38.613Z",
-  "itemCount": 0,
-  "items": []
+  "lastModified": "2026-04-27T23:05:46.458Z",
+  "itemCount": 1,
+  "items": [
+    {
+      "id": 1,
+      "name": "Vollauszug",
+      "sku": "",
+      "stock": 5,
+      "unit": "Stück",
+      "min": 0,
+      "max": 0,
+      "price": 25,
+      "location": "Regal 2, Fach 3",
+      "notes": "",
+      "photo": "",
+      "createdAt": "2026-04-27T23:05:46.112Z",
+      "updatedAt": "2026-02-05T19:15:26.360Z"
+    }
+  ]
 }
